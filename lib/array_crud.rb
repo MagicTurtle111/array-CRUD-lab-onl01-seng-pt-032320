@@ -25,6 +25,7 @@ end
 
 def remove_element_from_start_of_array(array)
   pokemon = ["wow","bulbasaur", "chimchar", "garchomp", "deoxys"]
+  pokemon.shift
 end
 
 def retrieve_element_from_index(array, index_number)
