@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   pokemon = ["bulbasaur", "chimchar", "garchomp", "deoxys"]
-  pokemon << "piplup"
+  pokemon << "arrays"
 end
 
 def add_element_to_start_of_array(array, element)
