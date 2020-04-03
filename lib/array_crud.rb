@@ -29,7 +29,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  pokemon = ["bulbasaur", "chimchar",|"am", "garchomp", "deoxys"]
+  pokemon = ["bulbasaur", "chimchar","am", "garchomp", "deoxys"]
   return pokemon[2]
 end
 
