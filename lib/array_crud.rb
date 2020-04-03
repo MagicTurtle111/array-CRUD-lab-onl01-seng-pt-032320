@@ -3,9 +3,10 @@ def create_an_empty_array
 end
 
 def create_an_array
-#create_an_array = ["bulbasaur, chimchar, garchomp, deoxys"]
-puppies = ["bulldog", "terrier", "poodle, josh"]
+create_an_array = ["bulbasaur", "chimchar", "garchomp", "deoxys"]
+
 end
+
 
 def add_element_to_end_of_array(array, element)
   
